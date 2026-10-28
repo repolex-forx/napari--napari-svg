@@ -1,0 +1,11 @@
+{
+  "org": "napari",
+  "repo": "napari-svg",
+  "versions": [
+    {
+      "commit": "e41542add2efdfe401522be9bc05a4e46b3c3d73",
+      "tag": "",
+      "parsed_at": "2026-10-28T11:20:36.150018+00:00"
+    }
+  ]
+}
