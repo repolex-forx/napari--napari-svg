@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/napari/napari-svg/commit/e41542add2efdfe401522be9bc05a4e46b3c3d73",
       "git:hexsha": "e41542add2efdfe401522be9bc05a4e46b3c3d73",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/napari/napari-svg/commit/4b891bd6104e6fdab86804431ff32338f06e290d",
